@@ -1,1 +1,3 @@
 It's a very simple Ghibli based website which uses an api to list all Studio Ghibli movies from where you can see movie title, description, release date...
+
+Here is the link of the website : https://ghibliapiwebsite.netlify.app
